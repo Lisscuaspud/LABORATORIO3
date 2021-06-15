@@ -1,1 +1,57 @@
-# LABORATORIO3
+# INFORME DE LABORATORIO 3
+
+AUTORES Joseline Cuaspud, Kevin Dota , Bryan Pasato 
+
+1. OBJETIVO GENERAL 
+
+
+
+1.1 OBJETIVOS ESPECÍFICOS 
+
+-
+
+-
+
+-
+
+2. MARCO TEÓRICO 
+
+
+
+3. EXPLICACIÓN DEL PROCEDIMIENTO
+
+3.1  MATERIAL 
+
+
+3.2 PROCEDIMIENTO 
+
+
+4. RESPUESTA A INTERROGANTES  Y CÁLCULO DE ERROR  
+
+
+
+5. VIDEO 
+
+
+6. CONCLUSIONES 
+
+-
+
+-
+
+-
+
+
+7. BIBLIOGRAFÍA 
+
+-
+
+-
+
+-
+
+
+
+
+
+
