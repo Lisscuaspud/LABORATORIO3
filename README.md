@@ -20,6 +20,10 @@ AUTORES Joseline Cuaspud, Kevin Dota , Bryan Pasato
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+![](https://user-images.githubusercontent.com/84998013/122136424-160dde80-ce08-11eb-9127-eb9da75ffbeb.png)
+
+![](https://user-images.githubusercontent.com/84998013/122136781-d398d180-ce08-11eb-90e7-d57150329802.png)
+
 3.1  MATERIAL 
 
 
