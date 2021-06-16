@@ -8,11 +8,11 @@ AUTORES Joseline Cuaspud, Kevin Dota , Bryan Pasato
 
 1.1 OBJETIVOS ESPECÍFICOS 
 
-- Reconocer las distintas leyes que se han estudiado a lo largode estos tres laboratorios, relacionar conceptos y saber aplicar en el analisis de ciscuitos calculos y descripcion de los mismos.
+- Reconocer las distintas leyes que se han estudiado a lo largo de estos tres laboratorios al relacionar conceptos y saber aplicar en el analisis de circuitos ,calculos y descripcion de los mismos.
 
--
+- Analizar los nodos y sus distintos voltajes por medio de simulación 
 
--
+- Entender el método de nodos útil para deducir ecuaciones de forma sencilla y sistemática
 
 2. MARCO TEÓRICO 
 
@@ -62,7 +62,9 @@ AUTORES Joseline Cuaspud, Kevin Dota , Bryan Pasato
 
 -
 
--
+-El análisis de nodos depende primero de identificar cuantos existen en el circuito ya que si no se toma en cuenta alguno de importancia nos puede dar un error de cálculo o cero al ser tomado como tierra, para medir el voltaje de cada nodo se conectó el amperímetro en paralelo. 
+	
+
 
 
 7. BIBLIOGRAFÍA 
