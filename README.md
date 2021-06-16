@@ -70,10 +70,9 @@ AUTORES Joseline Cuaspud, Kevin Dota , Bryan Pasato
 
 - McAllister, W. (17 de 01 de 2017). Khan Academy. Obtenido de Khan Academy: https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method
 
+- https://www.tinkercad.com/things/aA6Tk2p7Ytj-fabulous-trug-waasa/editel?tenant=circuits
 
--
 
--
 
 
 
