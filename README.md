@@ -4,7 +4,7 @@ AUTORES Joseline Cuaspud, Kevin Dota , Bryan Pasato
 
 1. OBJETIVO GENERAL 
 
-
+Realizar el análisis de nodos de un circuito mediante la aplicación de la ley de corriente de Kirchhoff para determinar el voltaje de los nodos presentes en el diagrama.
 
 1.1 OBJETIVOS ESPECÍFICOS 
 
