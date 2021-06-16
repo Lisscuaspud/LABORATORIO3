@@ -60,9 +60,9 @@ AUTORES Joseline Cuaspud, Kevin Dota , Bryan Pasato
 
 - Si bien existen varios conceptos que se relacionan la deduccion de formulas para hallar los distintos tipos de problemas propuestos puede llegar a complicar la mayor parte del analisis matematico.
 
--
 
 -El análisis de nodos depende primero de identificar cuantos existen en el circuito ya que si no se toma en cuenta alguno de importancia nos puede dar un error de cálculo o cero al ser tomado como tierra, para medir el voltaje de cada nodo se conectó el amperímetro en paralelo. 
+
 	
 
 
