@@ -16,6 +16,7 @@ AUTORES Joseline Cuaspud, Kevin Dota , Bryan Pasato
 
 2. MARCO TEÓRICO 
 
+![](https://user-images.githubusercontent.com/84998005/122140656-69385f00-ce11-11eb-94ab-960288c8bec7.png)
 
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
