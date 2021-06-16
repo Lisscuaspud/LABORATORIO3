@@ -50,6 +50,7 @@ AUTORES Joseline Cuaspud, Kevin Dota , Bryan Pasato
 
 4. RESPUESTA A INTERROGANTES  Y CÁLCULO DE ERROR  
 
+![](https://user-images.githubusercontent.com/84397282/122144444-2084a400-ce19-11eb-9977-8c38b316db82.jpg)
 
 
 5. VIDEO 
